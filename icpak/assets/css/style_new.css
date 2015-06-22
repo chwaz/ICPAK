@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=Exo);
+/*@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css");*/
+@font-face{
+	font-family: 'Exo', sans-serif !important;
+}
+
+.current_page span{
+	padding:0px 12px 0 12px;
+	font-weight: bolder;
+}
+
+#imaginary_container{
+    /*margin-top:20%;  Don't copy this */
+    padding:2%;
+}
+
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+
+#search{
+	width: 600px;
+	margin: 0 auto;
+	margin-left: -100px;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+.somespace{
+	padding-right: 0 12px 0 12px !important;
+	font-family: 'Exo', sans-serif !important;
+}
